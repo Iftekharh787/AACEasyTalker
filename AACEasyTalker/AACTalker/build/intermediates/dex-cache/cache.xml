@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_184167c92fbdc69c22e0d63ba1563bc6e7ff749e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_919bbd67be685aa679890c043c2cca05d6d47590.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="df4a409106169188f0951f7bf9785d8a7fdb7c1b">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_20f96659e56d36aba9f527df947d22ab25dbdef1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_7fbbd585d31e2065811c61dcbda29b1f70a2c1b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_3523d8176994b09db3cdfc434f7e1c5f0a5d7c7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT_7b56ffbae712185be704f21c23c19bd3fcc7f374.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_97ecfc99ff14f01cb96dadb622694a7b92f83977.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_b5eac5d9853943a215427baf073d27f459fd5301.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f6e4ffd15120fef5544a4ae5918ca8052c55fd17">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\instant-run_2d3d850d987216170aa6eab75ff7ca2d745e60f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_7a30deca764b99273210bc2e18abe9de0be17b04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Ashik\AndroidStudioProjects\AACTalker\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_b5fe340a9dca926b614ddee6f1ef68236c67203e.jar" />
+    </item>
+
+</items>
